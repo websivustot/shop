@@ -1,0 +1,25 @@
+{
+  "name": "php_lessons",
+  "authors": [
+    "websivustot <websivustot@gmail.com>"
+  ],
+  "description": "lessons",
+  "main": "index.html",
+  "keywords": [
+    "lesson7"
+  ],
+  "license": "MIT",
+  "homepage": "http://ilma.info/portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
